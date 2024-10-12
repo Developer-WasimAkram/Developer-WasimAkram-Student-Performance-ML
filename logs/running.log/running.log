@@ -1,0 +1,930 @@
+[ 2024-10-12 02:48:45,303 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:48:45,315 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:48:48,713 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py", inode=177516992, flags=11400, id=559751894): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:48:48,713 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:48:48,714 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py', reloading
+[ 2024-10-12 02:48:50,476 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:48:50,486 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:48:52,928 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py", inode=177516992, flags=11400, id=559754152): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:48:52,928 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:48:52,929 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py', reloading
+[ 2024-10-12 02:48:52,939 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py", inode=177516992, flags=11400, id=559754155): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:48:52,939 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:48:52,939 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py', reloading
+[ 2024-10-12 02:48:54,512 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:48:54,521 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:49:17,897 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py", inode=177516992, flags=11400, id=559757620): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:49:17,897 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:49:17,898 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py', reloading
+[ 2024-10-12 02:49:20,051 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:49:20,061 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:49:22,872 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py", inode=177516992, flags=11400, id=559759771): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:49:22,872 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:49:22,874 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py', reloading
+[ 2024-10-12 02:49:24,066 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:49:24,075 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:49:29,731 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py", inode=177516992, flags=11400, id=559761394): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:49:29,731 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:49:29,732 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py', reloading
+[ 2024-10-12 02:49:31,151 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:49:31,161 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:49:31,463 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py", inode=177516992, flags=11400, id=559763095): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:49:31,463 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:49:31,464 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py', reloading
+[ 2024-10-12 02:49:33,080 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:49:33,089 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:49:33,973 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py", inode=177516992, flags=11400, id=559763774): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:49:33,973 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:49:33,975 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py', reloading
+[ 2024-10-12 02:49:33,987 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py", inode=177516992, flags=11400, id=559763777): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:49:33,987 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:49:33,988 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py', reloading
+[ 2024-10-12 02:49:35,095 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:49:35,104 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:49:36,831 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py", inode=177516992, flags=11400, id=559765004): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:49:36,832 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:49:36,834 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py', reloading
+[ 2024-10-12 02:49:38,109 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:49:38,118 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:49:38,865 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py", inode=177516992, flags=11400, id=559765491): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:49:38,865 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:49:38,867 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py', reloading
+[ 2024-10-12 02:49:40,142 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:49:40,151 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:49:54,956 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py", inode=177516992, flags=11400, id=559771772): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:49:54,957 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:49:54,959 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py', reloading
+[ 2024-10-12 02:49:56,646 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:49:56,656 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:50:01,763 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py", inode=177516992, flags=11400, id=559773296): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:50:01,763 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:50:01,765 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py', reloading
+[ 2024-10-12 02:50:03,765 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:50:03,773 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:50:12,852 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py", inode=177516992, flags=11400, id=559776748): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:50:12,864 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:50:12,876 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py', reloading
+[ 2024-10-12 02:50:12,876 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py", inode=177516992, flags=11400, id=559776751): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:50:12,876 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:50:12,876 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py', reloading
+[ 2024-10-12 02:50:14,988 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:50:14,998 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:50:19,770 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py", inode=177516992, flags=11400, id=559777388): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:50:19,770 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:50:19,773 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py', reloading
+[ 2024-10-12 02:50:21,058 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:50:21,068 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:50:25,727 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py", inode=177516992, flags=11400, id=559779548): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:50:25,728 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:50:25,729 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py', reloading
+[ 2024-10-12 02:50:27,178 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:50:27,188 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:50:27,539 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py", inode=177516992, flags=11400, id=559779947): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:50:27,539 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:50:27,541 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py', reloading
+[ 2024-10-12 02:50:29,128 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:50:29,136 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:50:30,307 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py", inode=177516992, flags=11400, id=559780212): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:50:30,307 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:50:30,308 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py', reloading
+[ 2024-10-12 02:50:32,138 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:50:32,148 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:50:32,560 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py", inode=177516992, flags=11400, id=559781819): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:50:32,561 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:50:32,562 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py', reloading
+[ 2024-10-12 02:50:34,090 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:50:34,099 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:50:35,949 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py", inode=177516992, flags=11400, id=559783018): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:50:35,949 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:50:35,950 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py', reloading
+[ 2024-10-12 02:50:35,960 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py", inode=177516992, flags=11400, id=559783030): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:50:35,960 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:50:35,960 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py', reloading
+[ 2024-10-12 02:50:37,096 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:50:37,104 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:50:58,460 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py", inode=177516992, flags=11400, id=559786743): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:50:58,461 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:50:58,463 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py', reloading
+[ 2024-10-12 02:50:58,470 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py", inode=177516992, flags=11400, id=559786746): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:50:58,476 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:50:58,477 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py', reloading
+[ 2024-10-12 02:51:00,612 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:51:00,622 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:51:03,372 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py", inode=177516992, flags=10400, id=559787822): is_file, is_inode_meta_mod
+[ 2024-10-12 02:51:03,373 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:51:03,374 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py', reloading
+[ 2024-10-12 02:51:03,385 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py", inode=177516992, flags=11400, id=559787825): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:51:03,385 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:51:03,385 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py', reloading
+[ 2024-10-12 02:51:05,229 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:51:05,256 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:51:06,706 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py", inode=177516992, flags=11400, id=559789904): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:51:06,706 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:51:06,707 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py', reloading
+[ 2024-10-12 02:51:08,261 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:51:08,269 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:51:11,402 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py", inode=177516992, flags=11400, id=559790730): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:51:11,403 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:51:11,403 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py', reloading
+[ 2024-10-12 02:51:13,406 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:51:13,423 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:51:16,927 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py", inode=177516992, flags=11400, id=559793731): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:51:16,928 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:51:16,928 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py', reloading
+[ 2024-10-12 02:51:18,445 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:51:18,454 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:51:19,456 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py", inode=177516992, flags=11400, id=559793983): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:51:19,456 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:51:19,457 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py', reloading
+[ 2024-10-12 02:51:20,633 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:51:20,642 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:51:21,517 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py", inode=177516992, flags=11400, id=559795121): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:51:21,517 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:51:21,518 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py', reloading
+[ 2024-10-12 02:51:22,769 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:51:22,780 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:51:26,644 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py", inode=177516992, flags=11400, id=559797654): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:51:26,645 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:51:26,645 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py', reloading
+[ 2024-10-12 02:51:28,252 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:51:28,261 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:51:28,891 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py", inode=177516992, flags=11400, id=559798136): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:51:28,902 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:51:28,903 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py', reloading
+[ 2024-10-12 02:51:30,329 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:51:30,338 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:51:43,092 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py", inode=177516992, flags=10400, id=559806556): is_file, is_inode_meta_mod
+[ 2024-10-12 02:51:43,095 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:51:43,096 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py', reloading
+[ 2024-10-12 02:51:43,106 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py", inode=177516992, flags=11400, id=559806559): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:51:43,106 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:51:43,106 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py', reloading
+[ 2024-10-12 02:51:44,953 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:51:44,965 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:51:49,396 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py", inode=177516992, flags=11400, id=559809059): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:51:49,396 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:51:49,397 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py', reloading
+[ 2024-10-12 02:51:51,058 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:51:51,065 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:51:52,533 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py", inode=177516992, flags=11400, id=559809837): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:51:52,533 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:51:52,534 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py', reloading
+[ 2024-10-12 02:51:54,108 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:51:54,118 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:52:00,937 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py", inode=177516992, flags=11400, id=559811546): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:52:00,938 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:52:00,938 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_ingestion.py', reloading
+[ 2024-10-12 02:52:02,189 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:52:02,199 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:52:17,494 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559815008): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:52:17,494 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:52:17,495 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:52:19,558 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:52:19,566 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:52:20,300 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559815418): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:52:20,300 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:52:20,300 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:52:21,598 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:52:21,606 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:52:22,079 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559815895): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:52:22,079 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:52:22,080 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:52:23,671 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:52:23,679 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:52:29,944 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559818126): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:52:29,944 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:52:29,945 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:52:31,758 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:52:31,769 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:52:33,489 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559818704): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:52:33,489 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:52:33,490 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:52:34,733 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:52:34,742 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:52:37,124 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559820311): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:52:37,125 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:52:37,126 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:52:38,911 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:52:38,920 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:52:39,558 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559820841): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:52:39,558 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:52:39,559 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:52:40,992 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:52:41,001 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:52:41,555 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559821820): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:52:41,555 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:52:41,556 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:52:43,007 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:52:43,016 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:52:43,950 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559822048): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:52:43,950 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:52:43,951 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:52:45,050 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:52:45,059 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:52:47,649 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559825334): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:52:47,650 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:52:47,651 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:52:49,107 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:52:49,117 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:52:52,195 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559828323): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:52:52,196 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:52:52,196 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:52:54,156 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:52:54,164 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:52:54,644 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559828636): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:52:54,644 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:52:54,645 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:52:56,268 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:52:56,282 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:52:57,421 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559830512): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:52:57,421 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:52:57,422 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:52:59,352 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:52:59,360 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:53:13,192 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559833167): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:53:13,193 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:53:13,194 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:53:14,585 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:53:14,595 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:53:15,247 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559833499): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:53:15,248 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:53:15,249 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:53:16,791 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:53:16,804 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:53:17,987 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559835178): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:53:17,988 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:53:17,990 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:53:17,999 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559835181): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:53:17,999 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:53:18,000 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:53:19,801 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:53:19,810 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:53:24,393 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559836347): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:53:24,394 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:53:24,411 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:53:25,996 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:53:26,005 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:53:38,720 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=10400, id=559839747): is_file, is_inode_meta_mod
+[ 2024-10-12 02:53:38,724 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:53:38,726 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:53:38,735 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559839753): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:53:38,735 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:53:38,735 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:53:40,379 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:53:40,389 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:53:45,999 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559841856): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:53:46,000 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:53:46,000 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:53:47,519 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:53:47,529 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:53:48,660 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559843078): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:53:48,660 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:53:48,661 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:53:50,891 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:53:50,909 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:53:57,624 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559847241): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:53:57,624 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:53:57,625 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:53:59,262 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:53:59,272 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:54:00,453 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559848899): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:54:00,453 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:54:00,454 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:54:02,352 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:54:02,361 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:54:09,412 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559852413): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:54:09,412 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:54:09,413 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:54:11,489 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:54:11,498 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:54:19,100 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559855160): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:54:19,100 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:54:19,101 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:54:20,791 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:54:20,801 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:54:22,687 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559858495): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:54:22,687 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:54:22,688 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:54:23,901 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:54:23,909 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:54:27,942 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559859398): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:54:27,942 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:54:27,943 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:54:30,012 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:54:30,023 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:54:40,196 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=10400, id=559862699): is_file, is_inode_meta_mod
+[ 2024-10-12 02:54:40,209 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:54:40,210 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:54:40,226 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559862705): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:54:40,226 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:54:40,226 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:54:42,656 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:54:42,669 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:54:49,274 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559865972): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:54:49,274 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:54:49,275 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:54:50,877 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:54:50,887 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:55:00,183 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559870573): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:55:00,183 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:55:00,184 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:55:02,229 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:55:02,260 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:55:12,804 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559873672): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:55:12,805 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:55:12,810 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:55:12,821 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559873675): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:55:12,821 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:55:12,821 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:55:14,563 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:55:14,573 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:55:15,219 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559874098): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:55:15,219 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:55:15,221 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:55:16,594 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:55:16,602 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:55:23,864 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559876071): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:55:23,864 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:55:23,865 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:55:25,672 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:55:25,683 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:55:44,168 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559879627): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:55:44,169 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:55:44,170 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:55:46,002 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:55:46,010 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:55:51,259 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559880486): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:55:51,259 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:55:51,260 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:55:53,110 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:55:53,124 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:55:56,828 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559883121): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:55:56,828 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:55:56,829 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:55:58,223 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:55:58,233 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:56:00,225 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559883335): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:56:00,225 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:56:00,227 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:56:01,239 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:56:01,247 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:56:01,834 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559883943): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:56:01,834 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:56:01,835 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:56:03,303 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:56:03,313 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:56:04,456 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559884991): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:56:04,457 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:56:04,459 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:56:04,471 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559884994): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:56:04,471 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:56:04,471 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:56:06,374 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:56:06,385 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:56:08,459 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559886152): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:56:08,459 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:56:08,461 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:56:10,416 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:56:10,425 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:56:23,119 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559888692): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:56:23,119 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:56:23,121 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:56:24,634 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:56:24,644 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:56:26,126 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559890110): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:56:26,127 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:56:26,128 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:56:27,670 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:56:27,678 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:56:29,292 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559891416): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:56:29,293 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:56:29,294 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:56:29,305 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559891419): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:56:29,305 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:56:29,306 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:56:30,653 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:56:30,663 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:56:38,531 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559894022): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:56:38,531 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:56:38,532 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:56:39,697 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:56:39,706 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:56:40,697 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559894335): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:56:40,697 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:56:40,698 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:56:41,666 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:56:41,674 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:56:44,163 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559895063): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:56:44,164 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:56:44,173 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:56:45,709 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:56:45,721 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:56:52,984 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559898732): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:56:52,984 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:56:52,986 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:56:54,866 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:56:54,875 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:56:57,109 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559900674): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:56:57,110 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:56:57,111 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:56:58,888 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:56:58,896 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:57:05,239 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=10400, id=559904874): is_file, is_inode_meta_mod
+[ 2024-10-12 02:57:05,241 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:57:05,244 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:57:05,250 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559904883): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:57:05,250 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:57:05,251 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:57:07,035 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:57:07,044 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:57:07,955 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559907039): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:57:07,956 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:57:07,957 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:57:08,983 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:57:08,991 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:57:10,022 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559907554): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:57:10,022 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:57:10,023 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:57:12,036 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:57:12,045 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:57:14,605 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559908932): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:57:14,605 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:57:14,606 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:57:16,160 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:57:16,170 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:57:17,746 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559911700): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:57:17,747 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:57:17,748 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:57:19,233 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:57:19,243 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:57:22,167 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559913231): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:57:22,167 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:57:22,168 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:57:23,210 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:57:23,219 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:57:26,402 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559914665): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:57:26,402 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:57:26,403 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:57:28,228 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:57:28,237 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:57:30,194 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=10400, id=559915896): is_file, is_inode_meta_mod
+[ 2024-10-12 02:57:30,196 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:57:30,200 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:57:30,215 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559915899): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:57:30,216 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:57:30,216 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:57:31,215 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:57:31,224 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:57:34,197 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559916608): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:57:34,198 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:57:34,199 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:57:35,219 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:57:35,227 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:57:50,383 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559921866): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:57:50,383 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:57:50,385 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:57:52,575 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:57:52,584 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:57:53,580 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559922858): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:57:53,581 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:57:53,583 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:57:54,606 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:57:54,614 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:57:55,204 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559923427): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:57:55,205 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:57:55,206 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:57:56,672 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:57:56,683 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:57:58,399 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559925551): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:57:58,399 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:57:58,400 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:57:59,740 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:57:59,748 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:57:59,986 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559925929): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:57:59,986 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:57:59,988 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:58:01,708 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:58:01,716 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:58:17,370 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559931498): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:58:17,370 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:58:17,371 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:58:17,380 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559931501): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:58:17,380 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:58:17,380 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:58:19,015 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:58:19,024 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:58:23,498 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559933324): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:58:23,499 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:58:23,500 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:58:25,138 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:58:25,147 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:58:29,195 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559935687): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:58:29,195 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:58:29,196 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:58:31,230 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:58:31,240 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:58:33,294 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559936575): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:58:33,295 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:58:33,296 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:58:35,264 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:58:35,273 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:58:40,573 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559938616): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:58:40,574 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:58:40,576 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:58:42,309 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:58:42,318 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:58:44,025 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559939413): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:58:44,025 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:58:44,027 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:58:45,277 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:58:45,296 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:58:50,013 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559941399): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:58:50,014 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:58:50,016 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:58:50,027 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559941402): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:58:50,027 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:58:50,028 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:58:51,409 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:58:51,419 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:58:52,060 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559941644): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:58:52,061 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:58:52,062 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:58:53,402 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:58:53,411 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:58:53,583 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559942282): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:58:53,583 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:58:53,584 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:58:55,410 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:58:55,419 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:58:56,510 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559942708): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:58:56,510 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:58:56,512 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:58:58,463 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:58:58,474 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:59:00,345 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=10400, id=559945412): is_file, is_inode_meta_mod
+[ 2024-10-12 02:59:00,346 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:59:00,348 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:59:00,358 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559945415): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:59:00,358 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:59:00,358 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:59:01,519 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:59:01,527 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:59:02,493 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559946376): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:59:02,493 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:59:02,494 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:59:03,471 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:59:03,479 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:59:11,513 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559949178): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:59:11,514 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:59:11,516 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:59:12,584 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:59:12,594 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:59:18,210 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559950095): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:59:18,211 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:59:18,211 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:59:19,717 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:59:19,727 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:59:21,292 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559951636): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:59:21,293 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:59:21,294 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:59:21,304 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559951639): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:59:21,304 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:59:21,305 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:59:22,739 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:59:22,748 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:59:22,783 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559952134): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:59:22,783 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:59:22,784 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:59:24,743 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:59:24,753 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:59:29,702 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559953799): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:59:29,703 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:59:29,705 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:59:30,923 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:59:30,945 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:59:31,509 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559954431): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:59:31,510 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:59:31,511 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:59:32,911 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:59:32,919 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:59:33,999 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559955574): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:59:33,999 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:59:34,001 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:59:35,898 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:59:35,907 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:59:44,903 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559958293): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:59:44,907 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:59:44,908 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:59:45,941 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:59:45,952 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:59:47,975 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559959139): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:59:47,976 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:59:47,978 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:59:49,959 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:59:49,970 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 02:59:54,978 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559960801): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 02:59:54,979 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 02:59:54,980 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 02:59:55,971 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 02:59:55,979 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 03:00:00,173 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=10400, id=559962445): is_file, is_inode_meta_mod
+[ 2024-10-12 03:00:00,174 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:00:00,175 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 03:00:00,193 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559962460): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 03:00:00,193 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:00:00,194 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 03:00:02,098 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 03:00:02,108 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 03:00:03,593 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559964141): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 03:00:03,594 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:00:03,595 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 03:00:05,099 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 03:00:05,108 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 03:00:05,650 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559964330): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 03:00:05,651 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:00:05,652 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 03:00:07,179 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 03:00:07,188 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 03:00:10,311 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559967108): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 03:00:10,312 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:00:10,317 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 03:00:10,322 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559967117): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 03:00:10,323 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:00:10,323 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 03:00:12,395 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 03:00:12,404 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 03:00:13,773 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559968780): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 03:00:13,773 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:00:13,774 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 03:00:13,786 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559968783): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 03:00:13,786 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:00:13,786 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 03:00:15,566 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 03:00:15,575 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 03:00:20,778 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559971956): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 03:00:20,780 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:00:20,781 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 03:00:20,795 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559971965): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 03:00:20,795 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:00:20,795 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 03:00:22,646 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 03:00:22,656 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 03:00:30,025 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559973448): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 03:00:30,025 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:00:30,026 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 03:00:31,877 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 03:00:31,887 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 03:00:36,915 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559975806): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 03:00:36,916 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:00:36,918 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 03:00:37,898 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 03:00:37,906 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 03:00:41,466 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559977405): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 03:00:41,467 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:00:41,469 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 03:00:41,477 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559977408): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 03:00:41,477 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:00:41,478 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 03:00:43,029 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 03:00:43,040 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 03:00:52,882 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559979880): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 03:00:52,883 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:00:52,884 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 03:00:52,899 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py", inode=177518806, flags=11400, id=559979883): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 03:00:52,900 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:00:52,900 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/data_transformation.py', reloading
+[ 2024-10-12 03:00:54,243 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 03:00:54,255 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 03:01:23,398 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/__pycache__/data_ingestion.cpython-312.pyc.4384249840", inode=178706378, flags=19900, id=559984892): is_coalesced, is_created, is_file, is_modified, is_renamed, is_xattr_mod
+[ 2024-10-12 03:01:23,399 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/__pycache__/data_ingestion.cpython-312.pyc", inode=178706378, flags=10800, id=559984893): is_file, is_renamed
+[ 2024-10-12 03:01:23,399 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/__pycache__/data_ingestion.cpython-312.pyc", inode=178467376, flags=10800, id=559984894): is_file, is_renamed
+[ 2024-10-12 03:01:23,399 ] 101 fsevents - DEBUG - queue_event FileCreatedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/__pycache__/data_ingestion.cpython-312.pyc.4384249840', dest_path='', event_type='created', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:01:23,399 ] 101 fsevents - DEBUG - queue_event DirModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/__pycache__', dest_path='', event_type='modified', is_directory=True, is_synthetic=False)
+[ 2024-10-12 03:01:23,399 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/__pycache__/data_ingestion.cpython-312.pyc.4384249840', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:01:23,399 ] 242 fsevents - DEBUG - Destination event for rename is NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/__pycache__/data_ingestion.cpython-312.pyc", inode=178706378, flags=10800, id=559984893)
+[ 2024-10-12 03:01:23,399 ] 101 fsevents - DEBUG - queue_event FileMovedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/__pycache__/data_ingestion.cpython-312.pyc.4384249840', dest_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/__pycache__/data_ingestion.cpython-312.pyc', event_type='moved', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:01:23,399 ] 101 fsevents - DEBUG - queue_event DirModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/__pycache__', dest_path='', event_type='modified', is_directory=True, is_synthetic=False)
+[ 2024-10-12 03:01:23,399 ] 101 fsevents - DEBUG - queue_event DirModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/__pycache__', dest_path='', event_type='modified', is_directory=True, is_synthetic=False)
+[ 2024-10-12 03:01:23,399 ] 101 fsevents - DEBUG - queue_event FileDeletedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/__pycache__/data_ingestion.cpython-312.pyc', dest_path='', event_type='deleted', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:01:23,400 ] 101 fsevents - DEBUG - queue_event DirModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/__pycache__', dest_path='', event_type='modified', is_directory=True, is_synthetic=False)
+[ 2024-10-12 03:01:23,650 ] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[ 2024-10-12 03:01:24,322 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/__pycache__/data_transformation.cpython-312.pyc.5885051568", inode=178706386, flags=19900, id=559984993): is_coalesced, is_created, is_file, is_modified, is_renamed, is_xattr_mod
+[ 2024-10-12 03:01:24,322 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/__pycache__/data_transformation.cpython-312.pyc", inode=178706386, flags=10800, id=559984994): is_file, is_renamed
+[ 2024-10-12 03:01:24,322 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/__pycache__/data_transformation.cpython-312.pyc", inode=178391097, flags=10800, id=559984995): is_file, is_renamed
+[ 2024-10-12 03:01:24,322 ] 101 fsevents - DEBUG - queue_event FileCreatedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/__pycache__/data_transformation.cpython-312.pyc.5885051568', dest_path='', event_type='created', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:01:24,322 ] 101 fsevents - DEBUG - queue_event DirModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/__pycache__', dest_path='', event_type='modified', is_directory=True, is_synthetic=False)
+[ 2024-10-12 03:01:24,322 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/__pycache__/data_transformation.cpython-312.pyc.5885051568', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:01:24,322 ] 242 fsevents - DEBUG - Destination event for rename is NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/__pycache__/data_transformation.cpython-312.pyc", inode=178706386, flags=10800, id=559984994)
+[ 2024-10-12 03:01:24,323 ] 101 fsevents - DEBUG - queue_event FileMovedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/__pycache__/data_transformation.cpython-312.pyc.5885051568', dest_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/__pycache__/data_transformation.cpython-312.pyc', event_type='moved', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:01:24,323 ] 101 fsevents - DEBUG - queue_event DirModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/__pycache__', dest_path='', event_type='modified', is_directory=True, is_synthetic=False)
+[ 2024-10-12 03:01:24,323 ] 101 fsevents - DEBUG - queue_event DirModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/__pycache__', dest_path='', event_type='modified', is_directory=True, is_synthetic=False)
+[ 2024-10-12 03:01:24,323 ] 101 fsevents - DEBUG - queue_event FileDeletedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/__pycache__/data_transformation.cpython-312.pyc', dest_path='', event_type='deleted', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:01:24,323 ] 101 fsevents - DEBUG - queue_event DirModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/__pycache__', dest_path='', event_type='modified', is_directory=True, is_synthetic=False)
+[ 2024-10-12 03:01:24,466 ] 18 root - INFO - Initializing DataTransformationConfig for preprocessor path
+[ 2024-10-12 03:01:24,486 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/__pycache__/model_trainer.cpython-312.pyc.5895555472", inode=178706387, flags=19900, id=559985010): is_coalesced, is_created, is_file, is_modified, is_renamed, is_xattr_mod
+[ 2024-10-12 03:01:24,487 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/__pycache__/model_trainer.cpython-312.pyc", inode=178706387, flags=10800, id=559985011): is_file, is_renamed
+[ 2024-10-12 03:01:24,487 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/__pycache__/model_trainer.cpython-312.pyc", inode=178469038, flags=10800, id=559985012): is_file, is_renamed
+[ 2024-10-12 03:01:24,487 ] 101 fsevents - DEBUG - queue_event FileCreatedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/__pycache__/model_trainer.cpython-312.pyc.5895555472', dest_path='', event_type='created', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:01:24,487 ] 101 fsevents - DEBUG - queue_event DirModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/__pycache__', dest_path='', event_type='modified', is_directory=True, is_synthetic=False)
+[ 2024-10-12 03:01:24,487 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/__pycache__/model_trainer.cpython-312.pyc.5895555472', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:01:24,487 ] 242 fsevents - DEBUG - Destination event for rename is NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/__pycache__/model_trainer.cpython-312.pyc", inode=178706387, flags=10800, id=559985011)
+[ 2024-10-12 03:01:24,487 ] 101 fsevents - DEBUG - queue_event FileMovedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/__pycache__/model_trainer.cpython-312.pyc.5895555472', dest_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/__pycache__/model_trainer.cpython-312.pyc', event_type='moved', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:01:24,487 ] 101 fsevents - DEBUG - queue_event DirModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/__pycache__', dest_path='', event_type='modified', is_directory=True, is_synthetic=False)
+[ 2024-10-12 03:01:24,488 ] 101 fsevents - DEBUG - queue_event DirModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/__pycache__', dest_path='', event_type='modified', is_directory=True, is_synthetic=False)
+[ 2024-10-12 03:01:24,488 ] 101 fsevents - DEBUG - queue_event FileDeletedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/__pycache__/model_trainer.cpython-312.pyc', dest_path='', event_type='deleted', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:01:24,488 ] 101 fsevents - DEBUG - queue_event DirModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/__pycache__', dest_path='', event_type='modified', is_directory=True, is_synthetic=False)
+[ 2024-10-12 03:01:25,231 ] 28 root - INFO - Cycle started
+[ 2024-10-12 03:01:25,231 ] 29 root - INFO - Starting  the  data ingestion process
+[ 2024-10-12 03:01:25,239 ] 33 root - INFO - Reading data from datasets 
+[ 2024-10-12 03:01:25,239 ] 35 root - INFO - Created directory for saving raw data in artifacts 
+[ 2024-10-12 03:01:25,243 ] 37 root - INFO - saved raw data to csv in artifacts
+[ 2024-10-12 03:01:25,246 ] 40 root - INFO - Spliting  data into training and test sets
+[ 2024-10-12 03:01:25,248 ] 42 root - INFO - saved training data to csv in artifacts
+[ 2024-10-12 03:01:25,249 ] 44 root - INFO - saved test data to csv in artifacts
+[ 2024-10-12 03:01:25,249 ] 46 root - INFO - Data ingestion completed successfully and return input train and test data parh for data transformation 
+[ 2024-10-12 03:01:25,249 ] 73 root - INFO - Initaing data transformation process
+[ 2024-10-12 03:01:25,250 ] 76 root - INFO -  Read train and test data 
+[ 2024-10-12 03:01:25,250 ] 78 root - INFO - Dropping target column from training and test data
+[ 2024-10-12 03:01:25,252 ] 85 root - INFO -  creating data preprocessor object for  data transformation
+[ 2024-10-12 03:01:25,252 ] 35 root - INFO - Splitting numerical and categorical data in group for data transformation input
+[ 2024-10-12 03:01:25,252 ] 43 root - INFO - Creating numerical pipeline for data imputation  Simple imputer and standard scalaer
+[ 2024-10-12 03:01:25,252 ] 53 root - INFO - Creating catogorical pipeline for data imputation simpleImputer and one Hot Encoder and standard scalaer
+[ 2024-10-12 03:01:25,252 ] 55 root - INFO - Categorical columns: ['gender', 'race_ethnicity', 'parental_level_of_education', 'lunch', 'test_preparation_course']
+[ 2024-10-12 03:01:25,252 ] 56 root - INFO - Numerical columns: ['writing_score', 'reading_score']
+[ 2024-10-12 03:01:25,252 ] 67 root - INFO - Creating ColumnTransformer for data transformation
+[ 2024-10-12 03:01:25,260 ] 89 root - INFO - Fitted and transformed X_training data 
+[ 2024-10-12 03:01:25,262 ] 91 root - INFO - transformed X_test  data 
+[ 2024-10-12 03:01:25,263 ] 93 root - INFO - After transformation X_train data and y_train data concatenated in numpy arrays
+[ 2024-10-12 03:01:25,263 ] 95 root - INFO - After transformation X_test data and y_test data concatenated in numpy arrays
+[ 2024-10-12 03:01:25,263 ] 96 root - INFO - data transformation completed successfully
+[ 2024-10-12 03:01:25,264 ] 98 root - INFO - Saved preprocessor object for future use
+[ 2024-10-12 03:01:25,264 ] 35 root - INFO - model training initiated 
+[ 2024-10-12 03:01:25,264 ] 37 root - INFO - Spliting training and test data for model training
+[ 2024-10-12 03:01:25,265 ] 90 root - INFO - Model parameters loaded
+[ 2024-10-12 03:02:01,418 ] 103 root - INFO - Best found model on both training and testing dataset
+[ 2024-10-12 03:02:01,418 ] 106 root - INFO - Model saved successfully at ModelTrainingConfig(model_object_path='artifacts/model.pkl')
+[ 2024-10-12 03:02:01,420 ] 108 root - INFO - Best Model prediction completed successfully and best model are LinearRegression()
+[ 2024-10-12 03:02:01,420 ] 110 root - INFO - R2 score of the best model is 0.8790756129118955
+[ 2024-10-12 03:02:01,420 ] 116 root - INFO - Cycle completed
+[ 2024-10-12 03:05:49,922 ] 97 werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.110.255.172:5000
+[ 2024-10-12 03:05:49,923 ] 97 werkzeug - INFO - [33mPress CTRL+C to quit[0m
+[ 2024-10-12 03:05:49,929 ] 97 werkzeug - INFO -  * Restarting with watchdog (fsevents)
+[ 2024-10-12 03:05:50,782 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 03:05:50,793 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 03:05:56,723 ] 97 werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 03:05:56] "GET /predict HTTP/1.1" 200 -
+[ 2024-10-12 03:06:13,755 ] 19 root - INFO - Prediction pipeline initiated
+[ 2024-10-12 03:06:13,814 ] 23 root - INFO - Model loaded successfully
+[ 2024-10-12 03:06:13,842 ] 25 root - INFO - Preprocessor loaded successfully
+[ 2024-10-12 03:06:13,842 ] 26 root - INFO - Preprocessor data sacling started 
+[ 2024-10-12 03:06:13,849 ] 29 root - INFO - Prediction completed successfully
+[ 2024-10-12 03:06:13,850 ] 97 werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 03:06:13] "POST /predict HTTP/1.1" 200 -
+[ 2024-10-12 03:08:51,073 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/running.log", inode=178714648, flags=1d500, id=560084297): is_created, is_file, is_inode_meta_mod, is_modified, is_owner_change, is_xattr_mod
+[ 2024-10-12 03:08:51,074 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/predict copy.html", inode=178714649, flags=1d500, id=560084315): is_created, is_file, is_inode_meta_mod, is_modified, is_owner_change, is_xattr_mod
+[ 2024-10-12 03:08:51,074 ] 101 fsevents - DEBUG - queue_event FileCreatedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/running.log', dest_path='', event_type='created', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:08:51,074 ] 101 fsevents - DEBUG - queue_event DirModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates', dest_path='', event_type='modified', is_directory=True, is_synthetic=False)
+[ 2024-10-12 03:08:51,075 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/running.log', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:08:51,075 ] 101 fsevents - DEBUG - queue_event FileCreatedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/predict copy.html', dest_path='', event_type='created', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:08:51,076 ] 101 fsevents - DEBUG - queue_event DirModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates', dest_path='', event_type='modified', is_directory=True, is_synthetic=False)
+[ 2024-10-12 03:08:51,076 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/predict copy.html', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:09:03,844 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/predict.html", inode=178612013, flags=10800, id=560183495): is_file, is_renamed
+[ 2024-10-12 03:09:03,844 ] 101 fsevents - DEBUG - queue_event FileDeletedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/predict.html', dest_path='', event_type='deleted', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:09:03,844 ] 101 fsevents - DEBUG - queue_event DirModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates', dest_path='', event_type='modified', is_directory=True, is_synthetic=False)
+[ 2024-10-12 03:09:13,383 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/predict.html", inode=178726492, flags=18100, id=560191222): is_created, is_file, is_xattr_mod
+[ 2024-10-12 03:09:13,383 ] 101 fsevents - DEBUG - queue_event FileCreatedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/predict.html', dest_path='', event_type='created', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:09:13,383 ] 101 fsevents - DEBUG - queue_event DirModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates', dest_path='', event_type='modified', is_directory=True, is_synthetic=False)
+[ 2024-10-12 03:09:13,383 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/predict.html', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:09:13,394 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/predict.html", inode=178726492, flags=19100, id=560191240): is_created, is_file, is_modified, is_xattr_mod
+[ 2024-10-12 03:09:13,394 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/predict.html', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:09:22,298 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/predict.html", inode=178726492, flags=19900, id=560196288): is_coalesced, is_created, is_file, is_modified, is_renamed, is_xattr_mod
+[ 2024-10-12 03:09:22,298 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/predict.html', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:09:22,298 ] 101 fsevents - DEBUG - queue_event FileDeletedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/predict.html', dest_path='', event_type='deleted', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:09:22,298 ] 101 fsevents - DEBUG - queue_event DirModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates', dest_path='', event_type='modified', is_directory=True, is_synthetic=False)
+[ 2024-10-12 03:09:30,442 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/predict copy.html", inode=178714649, flags=10800, id=560202834): is_file, is_renamed
+[ 2024-10-12 03:09:30,442 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/predict.html", inode=178714649, flags=10800, id=560202835): is_file, is_renamed
+[ 2024-10-12 03:09:30,442 ] 242 fsevents - DEBUG - Destination event for rename is NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/predict.html", inode=178714649, flags=10800, id=560202835)
+[ 2024-10-12 03:09:30,442 ] 101 fsevents - DEBUG - queue_event FileMovedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/predict copy.html', dest_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/predict.html', event_type='moved', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:09:30,442 ] 101 fsevents - DEBUG - queue_event DirModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates', dest_path='', event_type='modified', is_directory=True, is_synthetic=False)
+[ 2024-10-12 03:09:30,443 ] 101 fsevents - DEBUG - queue_event DirModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates', dest_path='', event_type='modified', is_directory=True, is_synthetic=False)
+[ 2024-10-12 03:09:40,053 ] 97 werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.110.255.172:5000
+[ 2024-10-12 03:09:40,053 ] 97 werkzeug - INFO - [33mPress CTRL+C to quit[0m
+[ 2024-10-12 03:09:40,060 ] 97 werkzeug - INFO -  * Restarting with watchdog (fsevents)
+[ 2024-10-12 03:09:40,888 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 03:09:40,899 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 03:09:49,047 ] 97 werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 03:09:49] "GET /predict HTTP/1.1" 200 -
+[ 2024-10-12 03:09:49,467 ] 97 werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 03:09:49] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-10-12 03:10:11,540 ] 19 root - INFO - Prediction pipeline initiated
+[ 2024-10-12 03:10:11,592 ] 23 root - INFO - Model loaded successfully
+[ 2024-10-12 03:10:11,624 ] 25 root - INFO - Preprocessor loaded successfully
+[ 2024-10-12 03:10:11,624 ] 26 root - INFO - Preprocessor data sacling started 
+[ 2024-10-12 03:10:11,627 ] 29 root - INFO - Prediction completed successfully
+[ 2024-10-12 03:10:11,627 ] 97 werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 03:10:11] "POST /predict HTTP/1.1" 200 -
+[ 2024-10-12 03:14:26,445 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/home.html", inode=178612012, flags=11400, id=560313322): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 03:14:26,446 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/home.html', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:14:26,837 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/home.html", inode=178612012, flags=11400, id=560313425): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 03:14:26,837 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/home.html', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:14:33,520 ] 97 werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 03:14:33] "GET /predict HTTP/1.1" 200 -
+[ 2024-10-12 03:14:33,797 ] 97 werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 03:14:33] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-10-12 03:14:37,806 ] 97 werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 03:14:37] "GET / HTTP/1.1" 200 -
+[ 2024-10-12 03:15:48,720 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/home.html", inode=178612012, flags=11400, id=560329091): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 03:15:48,720 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/home.html', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:15:52,936 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/home.html", inode=178612012, flags=11400, id=560330359): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 03:15:52,936 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/home.html', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:15:52,953 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/home.html", inode=178612012, flags=11400, id=560330365): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 03:15:52,954 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/home.html', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:16:05,935 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/home.html", inode=178612012, flags=11400, id=560332760): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 03:16:05,936 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/home.html', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:16:15,250 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/home.html", inode=178612012, flags=11400, id=560336059): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 03:16:15,250 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/home.html', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:16:21,397 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/home.html", inode=178612012, flags=11400, id=560337589): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 03:16:21,397 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/home.html', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:16:21,408 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/home.html", inode=178612012, flags=11400, id=560337616): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 03:16:21,408 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/home.html', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:16:25,628 ] 97 werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 03:16:25] "GET / HTTP/1.1" 200 -
+[ 2024-10-12 03:16:27,017 ] 97 werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 03:16:27] "GET /predict HTTP/1.1" 200 -
+[ 2024-10-12 03:16:42,531 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/home.html", inode=178612012, flags=11400, id=560342745): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 03:16:42,531 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/home.html', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:16:45,306 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/home.html", inode=178612012, flags=11400, id=560343612): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 03:16:45,306 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/home.html', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:16:51,737 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/home.html", inode=178612012, flags=11400, id=560345884): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 03:16:51,738 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/home.html', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:16:51,750 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/home.html", inode=178612012, flags=11400, id=560345896): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 03:16:51,750 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/home.html', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:16:53,423 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/home.html", inode=178612012, flags=11400, id=560346458): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 03:16:53,423 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/home.html', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:16:56,534 ] 97 werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 03:16:56] "GET / HTTP/1.1" 200 -
+[ 2024-10-12 03:17:05,811 ] 97 werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 03:17:05] "GET /predict HTTP/1.1" 200 -
+[ 2024-10-12 03:18:34,804 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/result.html", inode=178744085, flags=18100, id=560367236): is_created, is_file, is_xattr_mod
+[ 2024-10-12 03:18:34,804 ] 101 fsevents - DEBUG - queue_event FileCreatedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/result.html', dest_path='', event_type='created', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:18:34,804 ] 101 fsevents - DEBUG - queue_event DirModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates', dest_path='', event_type='modified', is_directory=True, is_synthetic=False)
+[ 2024-10-12 03:18:34,804 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/result.html', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:18:37,501 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/result.html", inode=178744085, flags=19500, id=560367435): is_created, is_file, is_inode_meta_mod, is_modified, is_xattr_mod
+[ 2024-10-12 03:18:37,501 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/result.html', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:19:17,915 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/result.html", inode=178744085, flags=11400, id=560373776): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 03:19:17,916 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/result.html', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:19:26,337 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/result.html", inode=178744085, flags=11400, id=560375495): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 03:19:26,337 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/result.html', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:19:36,613 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/result.html", inode=178744085, flags=11400, id=560377908): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 03:19:36,614 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/result.html', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:19:57,236 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/result.html", inode=178744085, flags=11400, id=560381164): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 03:19:57,237 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/result.html', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:20:18,132 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/result.html", inode=178744085, flags=10400, id=560384311): is_file, is_inode_meta_mod
+[ 2024-10-12 03:20:18,133 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/result.html', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:20:18,143 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/result.html", inode=178744085, flags=11400, id=560384314): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 03:20:18,143 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/result.html', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:20:19,406 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/result.html", inode=178744085, flags=11400, id=560384899): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 03:20:19,406 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/result.html', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:20:20,712 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/result.html", inode=178744085, flags=11400, id=560385019): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 03:20:20,713 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/result.html', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:20:24,400 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/result.html", inode=178744085, flags=11400, id=560386401): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 03:20:24,400 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/result.html', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:20:36,123 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/app.py", inode=178542241, flags=10400, id=560389314): is_file, is_inode_meta_mod
+[ 2024-10-12 03:20:36,126 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/app.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:20:36,128 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/app.py', reloading
+[ 2024-10-12 03:20:36,137 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/app.py", inode=178542241, flags=11400, id=560389323): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 03:20:36,138 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/app.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:20:36,138 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/app.py', reloading
+[ 2024-10-12 03:20:37,188 ] 97 werkzeug - INFO -  * Restarting with watchdog (fsevents)
+[ 2024-10-12 03:20:38,423 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 03:20:38,432 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 03:20:40,898 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/app.py", inode=178542241, flags=11400, id=560390326): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 03:20:40,898 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/app.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:20:40,899 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/app.py', reloading
+[ 2024-10-12 03:20:41,621 ] 97 werkzeug - INFO -  * Restarting with watchdog (fsevents)
+[ 2024-10-12 03:20:42,446 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 03:20:42,454 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 03:20:42,841 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/app.py", inode=178542241, flags=11400, id=560390463): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 03:20:42,841 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/app.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:20:42,843 ] 97 werkzeug - INFO -  * Detected change in '/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/app.py', reloading
+[ 2024-10-12 03:20:43,564 ] 97 werkzeug - INFO -  * Restarting with watchdog (fsevents)
+[ 2024-10-12 03:20:44,440 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-10-12 03:20:44,449 ] 97 werkzeug - INFO -  * Debugger PIN: 983-891-154
+[ 2024-10-12 03:21:17,789 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/predict.html", inode=178714649, flags=10400, id=560395959): is_file, is_inode_meta_mod
+[ 2024-10-12 03:21:17,789 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/predict.html', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:21:17,811 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/predict.html", inode=178714649, flags=11400, id=560395962): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 03:21:17,811 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/predict.html', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:21:18,965 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/predict.html", inode=178714649, flags=11400, id=560396266): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 03:21:18,966 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/predict.html', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:21:18,983 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/predict.html", inode=178714649, flags=11400, id=560396269): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 03:21:18,983 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/predict.html', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:21:20,200 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/predict.html", inode=178714649, flags=11400, id=560396700): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 03:21:20,201 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/predict.html', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:21:35,593 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/predict.html", inode=178714649, flags=11400, id=560398959): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 03:21:35,593 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/predict.html', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:21:38,874 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/predict.html", inode=178714649, flags=11400, id=560400075): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 03:21:38,874 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/predict.html', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:21:40,833 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/predict.html", inode=178714649, flags=11400, id=560400626): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 03:21:40,833 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/predict.html', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:22:19,646 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/predict.html", inode=178714649, flags=11400, id=560407366): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 03:22:19,647 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/predict.html', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:23:07,856 ] 97 werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 03:23:07] "GET /predict HTTP/1.1" 200 -
+[ 2024-10-12 03:24:12,375 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/predict.html", inode=178714649, flags=11400, id=560433091): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 03:24:12,376 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/predict.html', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:24:13,043 ] 171 fsevents - DEBUG - NativeEvent(path="/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/predict.html", inode=178714649, flags=11400, id=560433174): is_file, is_inode_meta_mod, is_modified
+[ 2024-10-12 03:24:13,043 ] 101 fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/wasima/Desktop/Machine_Learning_Projects/Machine_Learning/src/templates/predict.html', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+[ 2024-10-12 03:24:15,732 ] 97 werkzeug - INFO - 127.0.0.1 - - [12/Oct/2024 03:24:15] "GET /predict HTTP/1.1" 200 -
