@@ -3,8 +3,8 @@ from prediction_pipeline import PredictionPipeline,CustomData
 import numpy as np 
 import pandas as pd   
 
-app = Flask(__name__)
-
+application = Flask(__name__)
+app=application
 # Route for a homepage 
 
 
@@ -40,4 +40,4 @@ def predict_datapoint():
         return render_template('result.html', results=prediction[0])
 
 if __name__=="__main__":
-    app.run(host="0.0.0.0",debug=True)
+    app.run(host="0.0.0.0")
